@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=short\ getMachine_word()
+comment1.params=x
+comment1.target=short\ reverseOrder(short)
+numComments=2
